@@ -44,7 +44,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
     </td>
     <td style="text-align: center;">
     <video width= "320" height="120"  autoplay controls muted loop>
-    <source src="static/image/a_metal_wristwatch.mp4" type="video/mp4">
+    <source src="static/image/a metal wristwatch.mp4" type="video/mp4">
     </video>
       <br><em>a metal wristwatch</em>
     </td>
