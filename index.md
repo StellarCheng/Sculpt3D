@@ -38,7 +38,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   <tr>
     <td style="text-align: center;">
     <video width="720" height="303" controls>
-    <source src="static/image/small_saguaro_cactus.avchd.mts" type="video/mp4">
+    <source src="static/image/small_saguaro_cactus(1).mp4" type="video/mp4">
     </video>
       <br><em>small saguaro cactus</em>
     </td>
