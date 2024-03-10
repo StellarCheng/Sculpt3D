@@ -37,7 +37,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
-      <img src="static/image/demo_gif1.gif" alt="A red and white lighthouse on a cliff" />
+    <video src="static/image/" controls="controls" width:100% height:auto></video>
       <br><em>A red and white lighthouse on a cliff</em>
     </td>
     <td style="text-align: center;">
