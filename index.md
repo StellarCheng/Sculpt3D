@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior
+title: Sculpt3D":" Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior
 authors:
     Cheng Chen<sup>1</sup>, Xiaofeng Yang<sup>1</sup>, Fan Yang<sup>1</sup>, Chengzeng Feng<sup>1</sup>, Zhoujie Fu <sup>1</sup>, Chuan-Sheng Foo<sup>2</sup>,  Guosheng Lin<sup>1</sup> and Fayao Liu<sup>2</sup>
 affiliations:
