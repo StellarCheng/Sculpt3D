@@ -28,7 +28,7 @@ Recent works on text-to-3d generation show that using only 2D diffusion supervis
 |:------------:|:-----------:|:-------:|:----------:|:----------:|:---------------:|:-----------------:|
 | Quality      |     24.9    |   38.7  |    34.2    |    29.2    |     51.1        |     **53.6**      |  
 | Alignment    |     24.0    |   35.3  |    32.0    |    23.5    |     47.8        |     **49.3**      |  
-| Cons. Rate   |     34\%    |   38\%  |    30\%    |    26\%    |     32\%        |     **76\%**      |  
+| Cons. Rate   |      34%    |    38%  |     30%    |     26%    |     32%         |      **76%**      |  
 
 We achieve state-of-the-art performance on T3Bench. We manually identify and count 3D inconsistencies (e.g., multiple faces, legs, and other distorted shapes.) to calculate the consistent rate of each method. 
 
