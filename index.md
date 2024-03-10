@@ -37,8 +37,8 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
-    <video src="static/image/" controls="controls" width:100% height:auto></video>
-      <br><em>A red and white lighthouse on a cliff</em>
+    <video src="static/image/small_saguaro_cactus.mp4" controls="controls" width:100% height:auto></video>
+      <br><em>small saguaro cactus</em>
     </td>
     <td style="text-align: center;">
       <img src="static/image/demo_gif2.gif" alt="An intricately-carved wooden chess set" />
