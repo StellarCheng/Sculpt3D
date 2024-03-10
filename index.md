@@ -37,7 +37,9 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
-    <video src="static/image/small_saguaro_cactus.mp4" controls="controls" width:100% height:auto></video>
+    <video width="720" height="303" controls>
+    <source src="static/image/small_saguaro_cactus.mp4" type="video/mp4">
+    </video>
       <br><em>small saguaro cactus</em>
     </td>
     <td style="text-align: center;">
