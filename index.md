@@ -37,25 +37,25 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
-    <video width= "220" height="120"  autoplay controls muted loop>
+    <video width:auto height:auto  autoplay controls muted loop>
     <source src="static/image/small_saguaro_cactus_1.mp4" type="video/mp4">
     </video>
       <br><em>small saguaro cactus</em>
     </td>
     <td style="text-align: center;"> 
-    <video width= "220" height="120"  autoplay controls muted loop>
+    <video width:auto height:auto  autoplay controls muted loop>
     <source src="static/image/a car made out of sushi.mp4" type="video/mp4">
     </video>
       <br><em>a car made out of sushi</em> 
     </td> 
     <td style="text-align: center;">
-    <video width= "220" height="120"  autoplay controls muted loop>
+    <video width:auto height:auto  autoplay controls muted loop>
     <source src="static/image/an iron key.mp4" type="video/mp4">
     </video>
       <br><em>An iron key</em>
     </td>
     <td style="text-align: center;"> 
-    <video width= "220" height="120"  autoplay controls muted loop>
+    <video width:auto height:auto  autoplay controls muted loop>
     <source src="static/image/carnival mask.mp4" type="video/mp4">
     </video>
       <br><em>A gold glittery carnival mask</em> 
