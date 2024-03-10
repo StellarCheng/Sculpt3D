@@ -21,15 +21,14 @@ Recent works on text-to-3d generation show that using only 2D diffusion supervis
 
 
 
-## Performance on T3Bench (with NeRF)
+## Performance on T3Bench
 
 
-| Dataset      | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS Emb. | LODS LoRA |
-|:------------:|:-----------:|:-------:|:----------:|:----------:|:----:|:---------------:|:---------:|:---------:|
-| Single Obj.  |     24.4    |   37.0  |    33.1    |    26.4    | 24.7 |       49.4      |  **52.3** |    51.3   |
-| Surroundings |     24.6    |   35.4  |    30.6    |    27.0    | 19.8 |       44.8      |  **49.8** |    47.3   |
-| Multi. Obj.  |     16.1    |   25.7  |    20.6    |    18.5    | 11.7 |       35.8      |  **39.7** |    37.5   |
-| Average      |     21.7    |   32.7  |    28.1    |    24.0    | 18.7 |       43.3      |  **47.3** |    45.4   |
+| Dataset      | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D |  ProlificDreamer | **Ours-Sculpt3D**|
+|:------------:|:-----------:|:-------:|:----------:|:----------:|:---------------:|:-----------------:|
+| Quality      |     24.9    |   38.7  |    34.2    |    29.2    |     51.1        |     **53.6**      |  
+| Alignment    |     24.0    |   35.3  |    32.0    |    23.5    |     47.8        |     **49.3**      |  
+| Cons. Rate   |     34\%    |   38\%  |    30\%    |    26\%    |     32\%        |     **76\%**      |  
 
 We achieve state-of-the-art performance on T3Bench.
 
