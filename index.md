@@ -43,8 +43,10 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
       <br><em>small saguaro cactus</em>
     </td>
     <td style="text-align: center;">
-      <img src="static/image/demo_gif2.gif" alt="An intricately-carved wooden chess set" />
-      <br><em>An intricately-carved wooden chess set</em>
+    <video width= "320" height="120"  autoplay controls muted loop>
+    <source src="static/image/a_metal_wristwatch.mp4" type="video/mp4">
+    </video>
+      <br><em>a metal wristwatch</em>
     </td>
   </tr>
   <tr>
