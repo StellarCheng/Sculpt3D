@@ -34,6 +34,36 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 
 ## Generation Results (NeRF)
 
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/small_saguaro_cactus_1.mp4" type="video/mp4">
+    </video>
+      <br><em>small saguaro cactus</em>
+    </td>
+    <td style="text-align: center;"> 
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/a car made out of sushi.mp4" type="video/mp4">
+    </video>
+      <br><em>a car made out of sushi</em> 
+    </td> 
+    <td style="text-align: center;">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/an iron key.mp4" type="video/mp4">
+    </video>
+      <br><em>An iron key</em>
+    </td>
+    <td style="text-align: center;"> 
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/carnival mask.mp4" type="video/mp4">
+    </video>
+      <br><em>A gold glittery carnival mask</em> 
+    </td>
+  </tr>
+</table>
+
+
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
