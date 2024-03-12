@@ -40,13 +40,13 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
     <source src="static/image/small_saguaro_cactus_1.mp4" type="video/mp4">
     </video>
-      <br><em>small saguaro cactus</em>
+      <br><em>Small saguaro cactus</em>
     </td>
     <td style="text-align: center;"> 
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
     <source src="static/image/a car made out of sushi.mp4" type="video/mp4">
     </video>
-      <br><em>a car made out of sushi</em> 
+      <br><em>A car made out of sushi</em> 
     </td> 
     <td style="text-align: center;">
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
@@ -63,42 +63,31 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   </tr>
 </table>
 
-
-<table style="border: none;">
+<table style="border: none; width: 100%;">
   <tr>
     <td style="text-align: center;">
-    <video width:auto height:auto  autoplay controls muted loop>
-    <source src="static/image/small_saguaro_cactus_1.mp4" type="video/mp4">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/colorful_parrot.mp4" type="video/mp4">
     </video>
-      <br><em>small saguaro cactus</em>
+      <br><em>A colorful parrot on a tree branch</em>
     </td>
     <td style="text-align: center;"> 
-    <video width:auto height:auto  autoplay controls muted loop>
-    <source src="static/image/a car made out of sushi.mp4" type="video/mp4">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/feather_pen.mp4" type="video/mp4">
     </video>
-      <br><em>a car made out of sushi</em> 
+      <br><em>An elegant feather-quill ink pen</em> 
     </td> 
     <td style="text-align: center;">
-    <video width:auto height:auto  autoplay controls muted loop>
-    <source src="static/image/an iron key.mp4" type="video/mp4">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/imperial_state_crown.mp4" type="video/mp4">
     </video>
-      <br><em>An iron key</em>
+      <br><em>An imperial state crown of england</em>
     </td>
     <td style="text-align: center;"> 
-    <video width:auto height:auto  autoplay controls muted loop>
-    <source src="static/image/carnival mask.mp4" type="video/mp4">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/house_in_Tudor_style.mp4" type="video/mp4">
     </video>
-      <br><em>A gold glittery carnival mask</em> 
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="static/image/demo_gif3.gif" alt="A cactus with pink flowers" />
-      <br><em>A cactus with pink flowers</em>
-    </td>
-    <td style="text-align: center;">
-      <img src="static/image/demo_gif4.gif" alt="A vintage porcelain doll with a frilly dress" />
-      <br><em>A vintage porcelain doll with a frilly dress</em>
+      <br><em>A model of a house in Tudor style</em> 
     </td>
   </tr>
 </table>
