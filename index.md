@@ -8,7 +8,7 @@ authors:
 affiliations:
     <sup>1</sup>Nanyang Technological University, <sup>2</sup>A*STAR, Singapore
 paper: https://arxiv.org/abs/2312.04820
-code: https://stellarcheng.github.io/Sculpt3D/
+code coming soon: https://stellarcheng.github.io/Sculpt3D/
 ---
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
