@@ -32,7 +32,7 @@ Recent works on text-to-3d generation show that using only 2D diffusion supervis
 
 We achieve state-of-the-art performance on T3Bench. We manually identify and count 3D inconsistencies (e.g., multiple faces, legs, and other distorted shapes.) to calculate the consistent rate of each method. 
 
-## Generation Results (NeRF)
+## Generation Results 
 
 <table style="border: none; width: 100%;">
   <tr>
