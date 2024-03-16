@@ -112,13 +112,13 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   <tr>
     <td style="text-align: center;">
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
-    <source src="static/image/a_metal_wristwatch.mp4" type="video/mp4">
+    <source src="static/image/a_metal_wristwatch_1.mp4" type="video/mp4">
     </video>
       <br><em>A metal wristwatch</em>
     </td>
     <td style="text-align: center;">
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
-    <source src="static/image/a_metal_wristwatch_1.mp4" type="video/mp4">
+    <source src="static/image/a metal wristwatch.mp4" type="video/mp4">
     </video>    
       <br><em>A metal wristwatch</em>
     </td>
