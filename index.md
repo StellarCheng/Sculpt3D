@@ -106,7 +106,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
     <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
     <source src="static/image/A_blooming_potted_orchid_with_purple_flowers_0.mp4" type="video/mp4">
     </video>    
-      <br><em>A pair of worn-in blue jeans</em>
+      <br><em>A blooming potted orchid with purple flowers</em>
     </td>
   </tr>
   <tr>
