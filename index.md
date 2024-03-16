@@ -92,7 +92,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   </tr>
 </table>
 
-## Generation Results (3D Gaussian Splatting)
+## Diverse Generation Results 
 
 <table style="border: none;">
   <tr>
