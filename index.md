@@ -128,9 +128,9 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 
 ## Citation
 ```
-@article{yang2023lods,
-  title={Learn to Optimize Denoising Scores for 3D Generation},
-  author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu and Guosheng Lin},
+@article{chen2023lods,
+  title={Sculpt3D&#58 Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior},
+  author={Cheng Chen, Xiaofeng Yang, Fayao Liu and Guosheng Lin},
   journal={arXiv:2312.04820},
   year={2023}
 }
