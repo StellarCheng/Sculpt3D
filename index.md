@@ -97,8 +97,10 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 <table style="border: none;">
   <tr>
     <td style="text-align: center;">
-      <img src="static/image/demo_gif_gs_1.gif" alt="A DSLR image of a hamburger" />
-      <br><em>A DSLR image of a hamburger</em>
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/A_blooming_potted_orchid_with_purple_flowers_1.mp4" type="video/mp4">
+    </video>
+      <br><em>A blooming potted orchid with purple flowers</em>
     </td>
     <td style="text-align: center;">
       <img src="static/image/demo_gif_gs_2.gif" alt="A pair of worn-in blue jeans" />
