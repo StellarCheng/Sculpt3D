@@ -129,7 +129,7 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 ## Citation
 ```
 @article{chen2023lods,
-  title={Sculpt3D&#58 Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior},
+  title={Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior},
   author={Cheng Chen, Xiaofeng Yang, Fayao Liu and Guosheng Lin},
   journal={arXiv:2312.04820},
   year={2023}
