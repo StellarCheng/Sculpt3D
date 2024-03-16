@@ -111,12 +111,16 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="static/image/demo_gif_gs_3.gif" alt="A worn-out leather briefcase" />
-      <br><em>A worn-out leather briefcase</em>
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/a_metal_wristwatch.mp4" type="video/mp4">
+    </video>
+      <br><em>A metal wristwatch</em>
     </td>
     <td style="text-align: center;">
-      <img src="static/image/demo_gif_gs_4.gif" alt="An ivory candlestick holder" />
-      <br><em>An ivory candlestick holder</em>
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/a_metal_wristwatch_1.mp4" type="video/mp4">
+    </video>    
+      <br><em>A metal wristwatch</em>
     </td>
   </tr>
 </table>
