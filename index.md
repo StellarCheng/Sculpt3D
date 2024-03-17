@@ -7,8 +7,8 @@ authors:
     Cheng Chen<sup>1</sup>, Xiaofeng Yang<sup>1</sup>, Fan Yang<sup>1</sup>, Chengzeng Feng<sup>1</sup>, Zhoujie Fu <sup>1</sup>, Chuan-Sheng Foo<sup>2</sup>,  Guosheng Lin<sup>1</sup> and Fayao Liu<sup>2</sup>
 affiliations:
     <sup>1</sup>Nanyang Technological University, <sup>2</sup>A*STAR, Singapore
-paper: https://arxiv.org/abs/2312.04820
-code: https://stellarcheng.github.io/Sculpt3D/
+paper: https://arxiv.org/abs/2403.09140
+code: https://github.com/StellarCheng/Scuplt_3d/tree/main
 ---
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
@@ -128,10 +128,10 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
 
 ## Citation
 ```
-@article{chen2023lods,
+@article{chen2024sculpt3d,
   title={Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior},
-  author={Cheng Chen, Xiaofeng Yang, Fayao Liu and Guosheng Lin},
-  journal={arXiv:2312.04820},
-  year={2023}
+  author={Chen, Cheng and Yang, Xiaofeng and Yang, Fan and Feng, Chengzeng and Fu, Zhoujie and Foo, Chuan-Sheng and Lin, Guosheng and Liu, Fayao},
+  journal={arXiv preprint arXiv:2403.09140},
+  year={2024}
 }
 ```
