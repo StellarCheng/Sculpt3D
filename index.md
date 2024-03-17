@@ -125,6 +125,25 @@ We achieve state-of-the-art performance on T3Bench. We manually identify and cou
   </tr>
 </table>
 
+## Appearance Refinement Results
+
+<table style="border: none;">
+  <tr>
+    <td style="text-align: center;">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/983.mp4" type="video/mp4">
+    </video>
+      <br><em>Generated results with appearance ambiguity</em>
+    </td>
+    <td style="text-align: center;">
+    <video width="320" height="240" autoplay controls muted loop style="object-fit: cover;">
+    <source src="static/image/1000_raw.mp4" type="video/mp4">
+    </video>    
+      <br><em>Correct appearance result using our appearance modulation strategy</em>
+    </td>
+  </tr>
+</table>
+
 
 ## Citation
 ```
